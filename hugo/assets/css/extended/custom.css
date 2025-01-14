@@ -1,0 +1,35 @@
+/* Custom styles added to demo */
+
+.twitter-tweet {
+  margin: auto;
+}
+
+iframe {
+  border-radius: var(--radius) !important;
+}
+
+.home-info ul {
+  padding-inline-start: 20px;
+}
+
+.entry-cover img {
+  border: 1px solid var(--border);
+}
+
+/* @media (prefers-color-scheme: dark) {
+
+  body {
+    background-color: #222;
+
+    color: #eee;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+
+  body {
+    background-color: #fff;
+
+    color: #333;
+  }
+} */
