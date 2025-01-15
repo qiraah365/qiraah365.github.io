@@ -1,6 +1,7 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-baseURL: "https://qiraah365.github.io/"
+# baseURL: "https://qiraah365.github.io/"
+baseURL: ""
 title: Qiraah 365
 copyright: ""
 paginate: 5
