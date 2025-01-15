@@ -51,11 +51,11 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
-            --config ../../hugo/config.yaml
+            --config ./hugo/config.yaml
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: ../../hugo/public
+          path: ./hugo/public
 
   deploy:
     environment:
