@@ -4,7 +4,7 @@ baseURL: "https://qiraah365.github.io/"
 title: Qiraah 365
 copyright: ""
 paginate: 5
-theme: "./hugo/themes/PaperMod"
+theme: "./themes/PaperMod"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
