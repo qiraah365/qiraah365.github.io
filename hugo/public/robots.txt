@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://localhost:1313/sitemap.xml
+Sitemap: https://qiraah365.github.io/sitemap.xml
