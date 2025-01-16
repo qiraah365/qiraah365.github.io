@@ -2,16 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Qiraah 365</title>
-    <link>/posts/</link>
+    <link>//localhost:58699/posts/</link>
     <description>Recent content in Posts on Qiraah 365</description>
     <image>
       <title>Qiraah 365</title>
-      <url>/images/papermod-cover.png</url>
-      <link>/images/papermod-cover.png</link>
+      <url>//localhost:58699/images/papermod-cover.png</url>
+      <link>//localhost:58699/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:58699/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>n86</title>
+      <link>//localhost:58699/posts/helloworld/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:58699/posts/helloworld/</guid>
+      <description>&lt;hr&gt;
+&lt;h1 id=&#34;hello-world&#34;&gt;hello world&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Heyyy&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Hello&lt;/p&gt;
+&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;consloe&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Hello&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;world&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;[!NOTE]
+Hello world&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;#/tech&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;%22/images/250116_3.jpeg%22&#34;&gt;&lt;/p&gt;
+&lt;p&gt;GGHhhhh
+GGG&lt;/p&gt;
+&lt;p&gt;fff&lt;/p&gt;
+&lt;p&gt;jjjj&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
